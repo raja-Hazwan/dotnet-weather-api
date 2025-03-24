@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/weather-api.git
+git clone https://github.com/raja-Hazwan/dotnet-weather-api.git
 cd weather-api
 ```
 
@@ -147,8 +147,11 @@ Pull requests are welcome! If you find a bug or want to request a feature, pleas
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
+
+## 🎯 Learning Path & Project Roadmap
+This project is part of my backend learning journey following the roadmap provided at [Weather API Wrapper Service](https://roadmap.sh/projects/weather-api-wrapper-service). 
+
 
 ---
 
@@ -167,4 +170,7 @@ Weather_API/
 │-- Weather_API.sln
 │-- README.md
 ```
+
+
+
 
